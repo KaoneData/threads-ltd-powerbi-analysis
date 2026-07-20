@@ -1,9 +1,15 @@
-# threads-ltd-powerbi-analysis
-Power BI interactive dashboard analyzing retail sales and product return metrics for Threads Ltd.
-
 #  Threads Ltd: Multi-Stakeholder Enterprise Performance Framework
 
 An end-to-end business intelligence solution developed in Power BI for a fictitious UK-based clothing enterprise. This project translates raw relational sales records into interactive, executive-ready dashboard interfaces optimized for business strategy.
+
+---
+##  Executive Summary & Strategic Takeaways
+
+Based on the multi-stakeholder performance audit executed across the Threads Ltd relational database, the following core data-driven interventions are recommended to executive leadership:
+
+1. **Catalog Expansion Risk Mitigation (Head of Sales):** The three-dimensional bubble analysis tracking recent transaction volumes and average product pricing indicates that the **"Tank Tops"** category maintains consistent order density. Expanding this catalog segment is commercially viable and carries low inventory overhead risk.
+2. **Targeted Regional Campaign Allocation (Product Manager):** The 2021 channel velocity audit isolates **Franchise outlets and Supermarkets** as the primary drivers of absolute order volume for the Women's apparel lines. Stagnant inventory lines that missed baseline target reference boundaries should be phased out, and marketing investments should be funneled exclusively into these high-velocity distribution channels.
+3. **Margin Compression Intervention (Chief Commercial Officer):** Timeline tracking exposes critical periods where explosive revenue growth failed to yield healthier operational profit margins. This divergence proves that rising Cost of Goods Sold (COGS) is actively compressing enterprise margins, necessitating an immediate optimization of supplier contract structures to stabilize the long-term bottom line.
 
 ---
 
